@@ -1,3 +1,5 @@
+package strings;
+
 public final class ImmutableClass {
 
     private final int id;

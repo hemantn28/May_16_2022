@@ -13,6 +13,15 @@ public class Immutable {
         a=a.concat("Vikas");
         System.out.println(a);
 
+        String s1="hello";
+        System.out.println(s1);
+
+        String s2="hello";
+        System.out.println(s2);
+
+        s1=s1.concat(" hi");
+        System.out.println(s1);
+
 
     }
 }
