@@ -3,7 +3,7 @@ package loops;
 public class While_Loop4 {
     public static void main(String[] args) {
 
-        int i=0;
+       /* int i=0;
         while (i<5){
             System.out.println("hello "+i);
             i++;
@@ -69,6 +69,10 @@ public class While_Loop4 {
         while (her>0){
             System.out.println("queen "+her);
             her--;
+        }*/
+
+        while (true){
+            System.out.println("I am an infinite while loop");
         }
     }
 }
