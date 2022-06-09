@@ -14,6 +14,27 @@ public class Operators {
         System.out.println(e);
         System.out.println(f);*/
 
+        /*int a=9;
+        a /=3;
+        System.out.println(a);
+        System.out.println(65<45 && 78>32);*/
+
+        /*int a=6*5-34/2;
+        int b=34*2-60/5;
+        System.out.println(a);
+        System.out.println(b);*/
+
+      /*  double x=10;
+        double y=5;
+        double k= x-y/2;
+        System.out.println(k);*/
+
+        double a=4;
+        double b=6;
+        double c=2;
+        double d=b*b-(4*a*c)/(2*a);
+        System.out.println(d);
+
 
     }
 }
